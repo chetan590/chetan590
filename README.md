@@ -28,7 +28,7 @@
 
 <!-- ==================== ABOUT ==================== -->
 
-<h3>// ABOUT_ME.md</h3>
+<h3>ABOUT ME</h3>
 
 <p>
   Computer Engineering student focused on building practical systems using
@@ -47,7 +47,7 @@
 
 <!-- ==================== CURRENT FOCUS ==================== -->
 
-<h3>// CURRENT_FOCUS</h3>
+<h3>CURRENT FOCUS</h3>
 
 <pre>
 Domain        : Computer Vision,  Artificial Intelligence,  Automation
@@ -68,7 +68,7 @@ Tools         : Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
 <!-- ==================== TECH STACK ==================== -->
 
-<h3>// TECH_STACK</h3>
+<h3>TECH STACK</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -98,7 +98,7 @@ Tools         : Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
 <!-- ==================== GITHUB ==================== -->
 
-<h3>// GITHUB</h3>
+<h3>GITHUB</h3>
 
 <p align="center">
   <a href="https://github.com/chetan590?tab=repositories">
